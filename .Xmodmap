@@ -1,0 +1,16 @@
+keycode 62 = Mode_switch
+keysym a = a A Left
+keysym d = d D Right NoSymbol Delete
+keycode 25 = w W Up
+keysym s = s S Down
+keycode 24 = q Q parenleft
+keycode 26 = e E parenright
+keycode 60 = period colon Home
+keycode 61 = minus underscore End 
+
+
+keycode 108 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift Mode_switch
+keycode 24 = q Q parenleft bracketleft
+keycode 26 = e E parenright bracketright 
+
+keycode 37 = Control_R NoSymbol Control_R
