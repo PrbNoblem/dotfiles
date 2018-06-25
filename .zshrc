@@ -58,4 +58,8 @@ export https_proxy=http://wwwproxy.se.axis.com:3128
 eval $(dircolors -b $HOME/.dircolors)
 
 
+# key bindings:
+bindkey '^[[H' beginning-of-line
+bindkey '^[[F' end-of-line
+bindkey '^[[3~' delete-char
 
